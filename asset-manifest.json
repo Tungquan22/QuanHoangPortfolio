@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21d1d6e9.css",
+    "main.js": "/static/js/main.15910e27.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/bouldering.mp4": "/static/media/bouldering.5e7fefcc0a7ea2d73e58.mp4",
+    "static/media/ryan-godling.png": "/static/media/ryan-godling.d7b50048ae555d810da5.png",
+    "static/media/Arceus.png": "/static/media/Arceus.dc87e5f2a246db63785b.png",
+    "static/media/monster_hunter_rise.png": "/static/media/monster_hunter_rise.bba89a2a484113f63f16.png",
+    "static/media/Profile.jpg": "/static/media/Profile.49811208c28928eb0c51.jpg",
+    "static/media/Path_of_Exile_logo.png": "/static/media/Path_of_Exile_logo.8e8c0331493901839447.png",
+    "static/media/ddr.jpg": "/static/media/ddr.df8c2dcca7ac42227d54.jpg",
+    "static/media/QuanHoang_Resume.pdf": "/static/media/QuanHoang_Resume.7544c91e2b5275474c14.pdf",
+    "static/media/leagueOfLegends.jpeg": "/static/media/leagueOfLegends.1aa1b8d7607cd290ede8.jpeg",
+    "static/media/rock-paper-scissors.png": "/static/media/rock-paper-scissors.22c4ad63568b422fc3da.png",
+    "static/media/sketchpad.png": "/static/media/sketchpad.f3264618ef4a4a31b5b8.png",
+    "index.html": "/index.html",
+    "main.21d1d6e9.css.map": "/static/css/main.21d1d6e9.css.map",
+    "main.15910e27.js.map": "/static/js/main.15910e27.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21d1d6e9.css",
+    "static/js/main.15910e27.js"
+  ]
+}
