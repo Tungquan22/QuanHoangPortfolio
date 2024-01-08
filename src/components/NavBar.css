@@ -1,8 +1,11 @@
 .navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-height: 64px;
+    max-height: 40px;
     background-color: #4f6449;
     color: #fff;
     padding: 30px;
@@ -31,11 +34,9 @@ nav ul {
     margin: 0;
     padding: 0;
     display: flex;
-    gap: 10px;
-}
-
-nav li {
-    margin-right: 15px;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
 }
 
 nav a {

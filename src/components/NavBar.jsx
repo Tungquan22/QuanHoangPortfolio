@@ -31,7 +31,7 @@ function NavBar() {
                     My Projects
                 </Link>
                 <div>
-                    <a href={Resume} target="_blank" rel="noreferrer">Resume</a>
+                    <a href={Resume} target="_blank" rel="noreferrer">My Resume</a>
                 </div>
                 </ul>
             </nav>
