@@ -1,0 +1,47 @@
+#myself {
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0px;
+    width: 100%;
+    background-color: #609966;
+    background: linear-gradient(#9DC08B, #EDF1D6, #9DC08B);
+}
+
+#profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.image-container {
+    margin-top: 70px;
+}
+
+#profile-picture {
+    width: 300px;
+    height: auto;
+    border-radius: 50%;
+    transition: all 0.7s ease-in-out;
+}
+
+#about-me {
+    padding-left: 30vh;
+    padding-right: 30vh;
+    padding-bottom: 10vh;
+}
+
+#about-me p {
+    font-size: 24px;
+}
+
+#about-me #note {
+    font-size: 16px;
+    font-style: italic;
+}
+
+#myself section {
+    margin-bottom: 0;
+}
