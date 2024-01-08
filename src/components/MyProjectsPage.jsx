@@ -146,8 +146,8 @@ function MyProjectsPage() {
     <>
         <NavBar />
         <div id="my-projects">
-        <ProjectSection id="data-analytics" title="Data Analytics" projects={dataAnalyticsProjects} />
-        <ProjectSection id="web-development" title="Web Development" projects={webDevelopmentProjects} />
+            <ProjectSection id="data-analytics" title="Data Analytics" projects={dataAnalyticsProjects} />
+            <ProjectSection id="web-development" title="Web Development" projects={webDevelopmentProjects} />
         </div>
     </>
   );

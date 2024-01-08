@@ -29,6 +29,13 @@
     font-size: 18px;
 }
 
+
+#my-projects a {
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+
 .project {
     background: linear-gradient(#9DC08B, 30%, #EDF1D6);
     border: 2px solid #47454b;
