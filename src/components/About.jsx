@@ -27,7 +27,6 @@ function About() {
             Other than that, I also love having plants (basically anything green) around me so I have some terrariums 
             and succulents.
             </p>
-            <p id="note">P/s: Try clicking on my profile picture and hover it again.</p>
         </section>
         </div>
     </>
